@@ -41,10 +41,13 @@ main {
     text-align: center;
     background-color: #f3e0c2;
 }
+
 main img {
     display: block;
     width: 80%;
     margin: 30px auto;
+}
+
 h1 {
     color: #7a3e1d;
     margin-bottom: 20px;
