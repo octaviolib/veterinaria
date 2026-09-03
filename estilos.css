@@ -206,6 +206,7 @@ footer {
     padding: 20px 0;
     text-align: center; 
     width: 100%;
+    border-top: 2px solid #d8f999;
 }
 
 footer p {
