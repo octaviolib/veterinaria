@@ -201,16 +201,44 @@ button:hover .fa-square-whatsapp {
 }
 
 footer {
-    background: #4a2412;
-    color:#ffe6c4;
-    padding: 20px 0;
-    text-align: center; 
-    width: 100%;
-    border-top: 2px solid #d8f999;
+    background-color: #512511;
+    color: #f5e3c3;
+    margin-top: 40px;
 }
 
-footer p {
-    margin: 0;
-    font-size: 0.95rem;
+.footer-contenido {
+    display: flex;
+    justify-content: space-around;
     text-align: center;
+    padding: 25px;
+}
+
+.footer-contenido h3 {
+    color: #d7e88a;
+    margin-bottom: 10px;
+}
+
+.footer-contenido p {
+    margin: 5px;
+}
+
+.footer-contenido a {
+    color: #f5e3c3;
+    font-size: 25px;
+    margin: 0 8px;
+}
+
+.footer-contenido a:hover {
+    color: #d7e88a;
+}
+
+.footer-abajo {
+    text-align: center;
+    padding: 12px;
+    border-top: 1px solid #70401f;
+}
+
+.footer-abajo p {
+    margin: 0;
+    font-size: 14px;
 }
