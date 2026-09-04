@@ -40,6 +40,7 @@ footer {
     margin-top: 40px;
 }
 .footer-contenido {
+    text-decoration: none;
     display: flex;
     justify-content: space-around;
     text-align: center;
